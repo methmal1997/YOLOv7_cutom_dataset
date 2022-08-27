@@ -1,3 +1,9 @@
+
+Personal note
+conda  install pytorch==1.12.0 torchvision==0.13.0 -c  pytorch
+when diplaying torch version or pytorch don't be allowed followed by +cu...  like thing. 
+
+
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
